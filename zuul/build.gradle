@@ -42,6 +42,7 @@ dependencies {
     compile 'org.springframework.cloud:spring-cloud-starter-eureka'
     compile 'org.springframework.boot:spring-boot-starter-actuator'
     compile 'org.springframework.cloud:spring-cloud-starter-zuul'
+    compile('net.logstash.logback:logstash-logback-encoder:3.5')
 
     testCompile 'org.springframework.boot:spring-boot-starter-test'
     testCompile "junit:junit"
