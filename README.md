@@ -7,10 +7,7 @@ Currently integrated features:
  * Edge Server by Zuul
  * simple set of 2 RESTful services exchanging random numbers
  * docker-machine + docker-compose powered
- 
-## next features waiting for integration
-
- * Prana integration for sidecar application
+ * integration for usage of sidecar application, Ruby on Rails in this example
  * ELK-Stack integration
  
 
